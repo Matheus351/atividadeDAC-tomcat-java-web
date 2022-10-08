@@ -8,5 +8,7 @@ São mais eficientes, pois utilizam menos recursos computacionais, podendo rapid
 
 #### _Comandos_
 **docker container run tomcat** - é um comando utilizado para executar o servidor web apache tomcat
+
 **docker container ls** - é um comando para listar todos os containers em execução
+
 **docker image ls** - comando utilizado para listar todas as imagens baixadas
